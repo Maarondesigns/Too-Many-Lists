@@ -1,4 +1,4 @@
-# My Travel Blog
+# Too Many Lists
 
 This is an app that I am currently building for making lists: to-do, reading, grocery/recipe, wish, skills, etc. Check it out and sign up! => [Too Many Lists](https://toomanylists.com)
 
